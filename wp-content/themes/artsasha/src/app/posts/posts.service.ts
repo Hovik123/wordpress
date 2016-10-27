@@ -12,7 +12,9 @@ export class PostsService {
 
   private _wpBase = "http://portfolio.dev/wp-json/wp/v2/";
 
-  constructor(private http: Http) { }
+  constructor(private http: Http) {
+
+  }
 
   getPosts(): Observable<Post[]> {
 

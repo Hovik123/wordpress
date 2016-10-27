@@ -1,7 +1,372 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89edf8e5-e064-470a-9983-b1a48575b691" name="Default" comment="" />
+    <list default="true" id="89edf8e5-e064-470a-9983-b1a48575b691" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/grabbing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/fonts/et-line.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/fonts/et-line.eot?" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/fonts/et-line.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/fonts/et-line.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/fonts/fontawesome-webfont.eot?" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/fonts/fontawesome-webfont.eot?v=4.2.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/fonts/fontawesome-webfont.ttf?v=4.2.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/fonts/fontawesome-webfont.woff?v=4.2.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/apple-touch-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/banners/banner-300x250.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/banners/banner-720x90.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/gallery/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/gallery/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/gallery/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/gallery/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/gallery/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/gallery/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/icon-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/icon-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/icon-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/image-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/image-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/barbershop/image-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/masonry/post-prev-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/post-prev-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/previews/post-prev-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/previews/post-prev-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/previews/post-prev-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/previews/post-prev-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/blog/previews/post-prev-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/client-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/client-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/client-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/client-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/client-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/client-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/with-bg/client-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/with-bg/client-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/with-bg/client-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/with-bg/client-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/with-bg/client-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/clients-logos/with-bg/client-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/coming-soon/fm-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/icons/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/icons/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/icons/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/icons/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/logo-construction.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/promo-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/service-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/service-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/service-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/works/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/works/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/works/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/works/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/works/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/construction/works/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/cv-resume/image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/fashion/autumn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/fashion/image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/fashion/image-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/fashion/image-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/fashion/image-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/fashion/image-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/fashion/image-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/fashion/spring.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/fashion/summer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/finance/icon-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/finance/icon-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/finance/icon-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/finance/image-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/finance/works/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/finance/works/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/finance/works/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/finance/works/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/finance/works/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/finance/works/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/full-width-images/section-bg-17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/full-width-images/section-bg-18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/full-width-images/section-bg-19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/full-width-images/section-bg-20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-37.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/intro/intro-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/landing/big-device-mockup.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/landing/feature-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/landing/feature-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/landing/feature-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/landing/screenshots/screenshot-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/landing/screenshots/screenshot-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/landing/screenshots/screenshot-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/landing/screenshots/screenshot-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/landing/screenshots/screenshot-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/landing/screenshots/screenshot-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/logo-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/logo-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/logo-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/pattern-bg-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/fm-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-1-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/about-photo-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/about-photo-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/photo-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/photo-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/photo-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/photo-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/photo-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/photo-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/photo-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/photo-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/photo-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/sp-logo-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/sp-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/works/photo-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/works/photo-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/works/photo-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/works/photo-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/works/photo-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/works/photo-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/works/photo-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/works/photo-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-2/works/photo-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-3-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-4-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-5-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-6-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-7-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-8-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-9-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/photographer-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/previews/photographer-1-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/previews/photographer-10-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/previews/photographer-2-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/previews/photographer-3-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/previews/photographer-4-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/previews/photographer-5-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/previews/photographer-6-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/previews/photographer-7-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/previews/photographer-8-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/previews/photographer-9-preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/photographer/signature.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/full-project-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/full-project-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/full-project-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/full-project-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/full-project-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/full-project-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/masonry/projects-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/masonry/projects-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/masonry/projects-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/portfolio/projects-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/promo-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/promo-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/promo-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/promo-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/restaurant/gallery/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/restaurant/gallery/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/restaurant/gallery/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/restaurant/gallery/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/restaurant/gallery/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/restaurant/gallery/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/restaurant/image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/previews/shop-prev-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/previews/shop-prev-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/previews/shop-prev-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/previews/shop-prev-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/previews/shop-prev-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/shop/shop-prev-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/team/team-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/team/team-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/team/team-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/team/team-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/images/user-avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/arrow_left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/arrow_right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/arrowleft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/arrowright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/boxed_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/bullet_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/bullets2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/coloredbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/gridtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/gridtile_3x3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/gridtile_3x3_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/gridtile_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/large_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/large_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/navigdots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/navigdots_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/shadow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/shadow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/shadow3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/small_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/small_left_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/small_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/small_right_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/assets/timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/font/revicons.eot?5510888" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/font/revicons.ttf?5510888" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/font/revicons.woff?5510888" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/images/gradient/g30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/images/gradient/g40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/YTPlayer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/et-line.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/rev-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/style-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/vertical-rhythm.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/fonts/et-line.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/fonts/fontawesome-webfont.svg?v=4.2.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/SmoothScroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/contact-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/contact-reservations-form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/gmap3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/imagesloaded.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/isotope.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery-1.11.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.ajaxchimp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.appear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.backgroundvideo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.countTo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.downCount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.localScroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.mb.YTPlayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.parallax-1.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.scrollTo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.simple-text-rotator.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/jquery.viewport.mini.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/masonry.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/rev-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/tiltfx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/js/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/css/settings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/font/revicons.svg?5510888" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/js/jquery.themepunch.revolution.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/rs-plugin/js/jquery.themepunch.tools.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2016/10/angularjs-for-wp.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/artsasha/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.component.html" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.module.ts" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/posts.service.ts" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/posts.service.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/artsasha/src/environments/environment.prod.ts" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/environments/environment.prod.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/artsasha/src/index.html" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/src/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/artsasha/wp-app.php" afterPath="$PROJECT_DIR$/wp-content/themes/artsasha/wp-app.php" />
+    </list>
     <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -20,12 +385,86 @@
     <favorites_list name="wordpress" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="posts.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/posts.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post-list.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-list/post-list.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post-list.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-list/post-list.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post-list.component.spec.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-list/post-list.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post-list.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-list/post-list.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -34,8 +473,8 @@
       <file leaf-file-name="wp-app.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/wp-app.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="562">
+              <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
               <folding>
                 <element signature="e#6#32#0#PHP" expanded="true" />
               </folding>
@@ -43,89 +482,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/functions.php">
+      <file leaf-file-name="post-single.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-single/post-single.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/shared/index.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="285">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
-                <element signature="e#0#58#0" expanded="true" />
+                <element signature="e#0#50#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app-routing.module.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app-routing.module.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app-routing.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app-routing.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/dist/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="187" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="187" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -139,8 +511,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/artSasha/src/index.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/artsasha/src/index.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/artsasha/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/artsasha/wp-app.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/artsasha/.gitignore" />
+        <option value="$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/posts.service.ts" />
+        <option value="$PROJECT_DIR$/wp-content/themes/artsasha/wp-app.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/artsasha/functions.php" />
       </list>
     </option>
   </component>
@@ -213,20 +587,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wp-includes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="wp-content" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -271,28 +631,56 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artsasha" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/artsasha" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="JavaScriptPreferStrict" value="false" />
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/artsasha/src/assets" />
+      <recent name="$PROJECT_DIR$/wp-content/themes/artSasha" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/wp-content/themes/artSasha" />
     </key>
   </component>
   <component name="RunManager">
@@ -314,6 +702,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -347,33 +741,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477336885039</updated>
-      <workItem from="1477336886881" duration="7193000" />
+      <workItem from="1477336886881" duration="7539000" />
+      <workItem from="1477419129756" duration="2476000" />
+      <workItem from="1477595985842" duration="2406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7193000" />
+    <option name="totallyTimeSpent" value="12421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39920318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37290835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -394,6 +790,77 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/shared/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <marker date="1477594895425" expanded="true" signature="7:634" ph="..." />
+            <marker date="1477594895425" expanded="true" signature="857:1011" ph="{...}" />
+            <marker date="1477594895425" expanded="true" signature="1036:1039" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app-routing.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="187" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="187" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-activate.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2565">
@@ -411,7 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="79" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -419,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -427,7 +892,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -435,49 +899,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/artSasha/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/artSasha/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artSasha/404.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artSasha/footer.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfifteen/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/artSasha/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artSasha/header.php" />
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding>
-            <element signature="e#6#471#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -485,7 +923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,9 +930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -503,7 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -511,7 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -520,19 +952,8 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/posts.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -540,9 +961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -550,9 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -560,14 +975,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-list/post-list.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -580,21 +987,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/wp-app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding>
-            <element signature="e#6#32#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="187" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="187" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,15 +998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,25 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app-routing.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,6 +1026,150 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app-routing.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding>
+            <marker date="1477594895425" expanded="true" signature="7:634" ph="..." />
+            <marker date="1477594895425" expanded="true" signature="857:1011" ph="{...}" />
+            <marker date="1477594895425" expanded="true" signature="1036:1039" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/node_modules/@angular/core/src/change_detection/change_detection_util.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-list/post-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-list/post-list.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-list/post-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-list/post-list.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/wp-app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+          <folding>
+            <element signature="e#6#32#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/post-single/post-single.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/src/app/posts/posts.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/artsasha/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding />
         </state>
       </provider>

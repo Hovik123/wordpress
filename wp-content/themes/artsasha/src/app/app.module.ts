@@ -7,12 +7,20 @@ import { AppComponent } from './app.component';
 import { PostListComponent } from './posts/post-list/post-list.component';
 import { Wpng2RoutingModule } from './app-routing.module';
 import { PostSingleComponent } from './posts/post-single/post-single.component';
+import { HeaderComponent } from './header/header.component';
+import { MenuComponent } from './menu/menu.component';
+import { FootterComponent } from './footter/footter.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PostListComponent,
-    PostSingleComponent
+    PostSingleComponent,
+    HeaderComponent,
+    MenuComponent,
+    FootterComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
