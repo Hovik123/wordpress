@@ -1,0 +1,1 @@
+export const API_ENDPOINT:String = "http://portfolio.dev/";

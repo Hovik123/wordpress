@@ -2,16 +2,17 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { PostListComponent } from './posts/post-list/post-list.component';
 import { PostSingleComponent } from './posts/post-single/post-single.component';
+import { HomeComponent } from './home/home.component';
 
 const routes: Routes = [
   {
     path: '',
-    component: PostListComponent,
+    redirectTo: '/home',
     pathMatch: 'full'
   },
   {
-    path: ':slug',
-    component: PostSingleComponent
+    path: 'home',
+    component: HomeComponent
   }
 ];
 
