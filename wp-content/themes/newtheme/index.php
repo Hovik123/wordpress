@@ -20,7 +20,7 @@
         <div class="container relative">
             <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
                 Alexandru Raevschi
-                <a href="#" class="section-more right">More about Alexandru Raevschi <i class="fa fa-angle-right"></i></a>
+                <a href="<?php echo get_page_link(162); ?>" class="section-more right">More about Alexandru Raevschi <i class="fa fa-angle-right"></i></a>
             </h2>
             <div class="section-text">
                 <div class="row">

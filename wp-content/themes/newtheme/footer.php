@@ -3,9 +3,19 @@
     <div class="container">
         <!-- Footer Logo -->
         <div class="local-scroll mb-30 wow fadeInUp" data-wow-duration="1.5s">
-            <a href="#top"><img src="<?php echo get_template_directory_uri();
-                ?>/assets/images/logo-footer.png" width="78" height="36" alt="" /></a>
+            <a href="#top" style="font-size: 21px;">ALEXANDRU RAEVSCHI</a>
         </div>
+        <div class="inner-nav col-lg-12">
+            <?php wp_nav_menu(array(
+                'theme_location' => 'primary',
+                'menu_class' => 'col-lg-9 col-lg-offset-3 ',
+                'menu_id' => 'primary-menu',
+                'container' => false,
+                'depth' => '1'
+            ));
+            ?>
+        </div>
+
         <!-- End Footer Logo -->
         <!-- Social Links -->
         <div class="footer-social-links mb-110 mb-xs-60">
@@ -20,11 +30,7 @@
         <div class="footer-text">
             <!-- Copyright -->
             <div class="footer-copy font-alt">
-                <a href="http://themeforest.net/user/theme-guru/portfolio" target="_blank">&copy; Rhythm 2016</a>.
-            </div>
-            <!-- End Copyright -->
-            <div class="footer-made">
-                Made with love for great people.
+                &copy; All right reserved
             </div>
         </div>
         <!-- End Footer Text -->
@@ -37,7 +43,6 @@
 </footer>
 <!-- End Foter -->
 </div>
-
 
 
 <?php wp_head(); ?>

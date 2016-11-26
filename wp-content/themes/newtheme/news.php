@@ -24,7 +24,22 @@
         <!-- End Head Section -->
     <?php endwhile; ?>
 <?php endif; ?>
+<?php
+$paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
+$args = array(
+    'posts_per_page' => 5,
+    'category' => 'news',
+    'orderby' => 'date',
+    'order' => 'DESC',
+    'post_type' => 'post',
+    'paged' => $paged,
+    'post_status'=>'publish'
+);
 
+$posts = get_posts($args);
+
+
+?>
     <!-- Section -->
     <section class="page-section">
         <div class="container relative">
@@ -32,233 +47,43 @@
                 <!-- Content -->
                 <div class="col-sm-10 col-sm-offset-1">
                     <!-- Post -->
-                    <div class="blog-item">
+                    <?php
+                    $custom_query = new WP_Query( $args );
+                    while ( $custom_query->have_posts() ) :
+                        $custom_query->the_post();?>
+                        <div class="blog-item">
 
-                        <!-- Date -->
-                        <div class="blog-item-date">
-                            <span class="date-num">05</span>Feb
+                            <!-- Date -->
+                            <div class="blog-item-date">
+                                <?php echo the_date()?>
+                            </div>
+
+                            <!-- Post Title -->
+                            <h2 class="blog-item-title font-alt"><a
+                                    href="<?php echo get_permalink() ?>"><?php echo the_title(); ?></a></h2>
+
+
+                            <!-- Text Intro -->
+                            <div class="blog-item-body">
+                                <p>
+                                    <?php the_content()?>
+                                </p>
+                            </div>
+
+                            <!-- Read More Link -->
+                            <div class="blog-item-foot">
+                                <a href="<?php echo get_permalink() ?>" class="btn btn-mod btn-round  btn-small">Read
+                                    More
+                                    <i class="fa fa-angle-right"></i></a>
+                            </div>
+
                         </div>
-
-                        <!-- Post Title -->
-                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Post with media
-                                gallery</a></h2>
-
-                        <!-- Author, Categories, Comments -->
-                        <div class="blog-item-data">
-                            <a href="#"><i class="fa fa-user"></i> John Doe</a>
-                            <span class="separator">&nbsp;</span>
-                            <i class="fa fa-folder-open"></i>
-                            <a href="">Design</a>, <a href="#">Branding</a>
-                            <span class="separator">&nbsp;</span>
-                            <a href="#"><i class="fa fa-comments"></i> 5 Comments</a>
-                        </div>
-
-                        <!-- Media Gallery -->
-                        <div class="blog-media">
-                            <ul class="clearlist content-slider">
-                                <li>
-                                    <img src="images/portfolio/full-project-1.jpg" alt=""/>
-                                </li>
-                                <li>
-                                    <img src="images/portfolio/full-project-2.jpg" alt=""/>
-                                </li>
-                                <li>
-                                    <img src="images/portfolio/full-project-3.jpg" alt=""/>
-                                </li>
-                            </ul>
-                        </div>
-
-                        <!-- Text Intro -->
-                        <div class="blog-item-body">
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non laoreet dui. Morbi
-                                lacus massa, euismod ut turpis molestie, tristique sodales est. Integer sit amet mi id
-                                sapien tempor molestie in nec massa.
-                            </p>
-                        </div>
-
-                        <!-- Read More Link -->
-                        <div class="blog-item-foot">
-                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More
-                                <i class="fa fa-angle-right"></i></a>
-                        </div>
-
-                    </div>
-                    <!-- End Post -->
-
-                    <!-- Post -->
-                    <div class="blog-item">
-                        <!-- Date -->
-                        <div class="blog-item-date">
-                            <span class="date-num">04</span>Feb
-                        </div>
-                        <!-- Blockquote -->
-                        <blockquote class="blog-item-q">
-                            <p>
-                                <a href="blog-single-sidebar-right.html">Curabitur iaculis, ligula facilisis volutpat
-                                    suscipit, sapien felis tempor, consequat vitae velit.</a>
-                            </p>
-                        </blockquote>
-                        <!-- End Blockquote -->
-
-                        <!-- Author, Categories, Comments -->
-                        <div class="blog-item-data">
-                            <a href="#"><i class="fa fa-user"></i> John Doe</a>
-                            <span class="separator">&nbsp;</span>
-                            <i class="fa fa-folder-open"></i>
-                            <a href="">Design</a>, <a href="#">Branding</a>
-                            <span class="separator">&nbsp;</span>
-                            <a href="#"><i class="fa fa-comments"></i> 5 Comments</a>
-                        </div>
-
-                        <!-- Read More Link -->
-                        <div class="blog-item-foot">
-                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More
-                                <i class="fa fa-angle-right"></i></a>
-                        </div>
-
-                    </div>
-                    <!-- End Post -->
-
-                    <!-- Post -->
-                    <div class="blog-item">
-
-                        <!-- Date -->
-                        <div class="blog-item-date">
-                            <span class="date-num">03</span>Feb
-                        </div>
-
-                        <!-- Post Title -->
-                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Video post
-                                only</a></h2>
-
-                        <!-- Author, Categories, Comments -->
-                        <div class="blog-item-data">
-                            <a href="#"><i class="fa fa-user"></i> John Doe</a>
-                            <span class="separator">&nbsp;</span>
-                            <i class="fa fa-folder-open"></i>
-                            <a href="">Design</a>, <a href="#">Branding</a>
-                            <span class="separator">&nbsp;</span>
-                            <a href="#"><i class="fa fa-comments"></i> 5 Comments</a>
-                        </div>
-
-                        <!-- Media Gallery -->
-                        <div class="blog-media">
-                            <iframe width="640" height="360" src="http://www.youtube.com/embed/w2JUhDd0CAA"
-                                    frameborder="0" allowfullscreen></iframe>
-                        </div>
-
-                        <!-- Text Intro -->
-                        <div class="blog-item-body">
-                            <p>
-                                Morbi lacus massa, euismod ut turpis molestie, tristique sodales est. Integer sit amet
-                                mi id sapien tempor molestie in nec massa.
-                            </p>
-                        </div>
-
-                        <!-- Read More Link -->
-                        <div class="blog-item-foot">
-                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More
-                                <i class="fa fa-angle-right"></i></a>
-                        </div>
-
-                    </div>
-                    <!-- End Post -->
-
-                    <!-- Post -->
-                    <div class="blog-item">
-
-                        <!-- Date -->
-                        <div class="blog-item-date">
-                            <span class="date-num">07</span>Feb
-                        </div>
-
-                        <!-- Post Title -->
-                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Post with text
-                                only</a></h2>
-
-                        <!-- Author, Categories, Comments -->
-                        <div class="blog-item-data">
-                            <a href="#"><i class="fa fa-user"></i> John Doe</a>
-                            <span class="separator">&nbsp;</span>
-                            <i class="fa fa-folder-open"></i>
-                            <a href="">Design</a>, <a href="#">Branding</a>
-                            <span class="separator">&nbsp;</span>
-                            <a href="#"><i class="fa fa-comments"></i> 5 Comments</a>
-                        </div>
-
-                        <!-- Text Intro -->
-                        <div class="blog-item-body">
-                            <p>
-                                Suspendisse accumsan interdum tellus, eu imperdiet lacus consectetur sed. Aliquam in
-                                ligula ac lacus blandit commodo vel luctus quam. Pellentesque habitant morbi tristique
-                                senectus et netus et malesuada fames ac turpis egestas. Cras eu ultrices mauris.
-                            </p>
-                        </div>
-
-                        <!-- Read More Link -->
-                        <div class="blog-item-foot">
-                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More
-                                <i class="fa fa-angle-right"></i></a>
-                        </div>
-
-                    </div>
-                    <!-- End Post -->
-
-                    <!-- Post -->
-                    <div class="blog-item">
-
-                        <!-- Date -->
-                        <div class="blog-item-date">
-                            <span class="date-num">27</span>Jan
-                        </div>
-                        <!-- Post Title -->
-                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Image post
-                                only</a></h2>
-
-                        <!-- Author, Categories, Comments -->
-                        <div class="blog-item-data">
-                            <a href="#"><i class="fa fa-user"></i> John Doe</a>
-                            <span class="separator">&nbsp;</span>
-                            <i class="fa fa-folder-open"></i>
-                            <a href="">Design</a>, <a href="#">Branding</a>
-                            <span class="separator">&nbsp;</span>
-                            <a href="#"><i class="fa fa-comments"></i> 5 Comments</a>
-                        </div>
-
-                        <!-- Image -->
-                        <div class="blog-media">
-                            <a href="blog-single-sidebar-right.html"><img src="images/portfolio/full-project-4.jpg"
-                                                                          alt=""/></a>
-                        </div>
-
-                        <!-- Text Intro -->
-                        <div class="blog-item-body">
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at magna ut ante
-                                eleifend eleifend. Aliquam ac libero et diam rutrum rutrum. Nullam interdum mattis ipsum
-                                at convallis.
-                            </p>
-                        </div>
-
-                        <!-- Read More Link -->
-                        <div class="blog-item-foot">
-                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More
-                                <i class="fa fa-angle-right"></i></a>
-                        </div>
-
-                    </div>
-                    <!-- End Post -->
-
-                    <!-- Pagination -->
+                    <?php endwhile; ?>
                     <div class="pagination">
-                        <a href=""><i class="fa fa-angle-left"></i></a>
-                        <a href="" class="active">1</a>
-                        <a href="">2</a>
-                        <a href="">3</a>
-                        <a class="no-active">...</a>
-                        <a href="">9</a>
-                        <a href=""><i class="fa fa-angle-right"></i></a>
+                        <?php
+                        if (function_exists('custom_pagination')) {
+                            custom_pagination($custom_query->max_num_pages, "", $paged);
+                        } ?>
                     </div>
                     <!-- End Pagination -->
 
