@@ -1,3 +1,4 @@
+
 (function($){
     "use strict"; // Start of use strict
     
@@ -33,7 +34,6 @@
     });
     
     $(document).ready(function(){
-        
         $(window).trigger("resize");            
         init_classic_menu();
         init_fullscreen_menu();
@@ -991,13 +991,13 @@ function initWorkFilter(){
          });
      }
 
-     work_grid.imagesLoaded(function(){
+     /*work_grid.imagesLoaded(function(){
          work_grid.isotope({
              itemSelector: '.mix',
              layoutMode: isotope_mode,
              filter: fselector
          });
-     });
+     });*/
         
         
     })(jQuery);
@@ -1047,10 +1047,7 @@ function init_map(){
             gmMapDiv.gmap3({
                 action: "init",
                 marker: {
-                    address: gmMarkerAddress,
-                    options: {
-                        icon: "images/map-marker.png"
-                    }
+                    address: gmMarkerAddress
                 },
                 map: {
                     options: {

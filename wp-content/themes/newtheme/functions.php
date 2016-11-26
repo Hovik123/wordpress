@@ -1,4 +1,5 @@
 <?php
+require_once get_template_directory() . "/inc/Walker_menu.php";
 function register_menu() {
     register_nav_menu('primary',__( 'Header menu' ));
 }

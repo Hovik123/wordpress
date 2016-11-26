@@ -4,17 +4,23 @@
 <?php
 if (have_posts()) :
     while (have_posts()) : the_post(); ?>
-        <section class="small-section bg-dark-alfa-30 parallax-2"
-                 data-background=<?php the_post_thumbnail_url() ?>>
-            <div class="relative container align-left">
-                <div class="row">
-                    <div class="col-md-8">
-                        <h1 class="hs-line-11 font-alt mb-20 mb-xs-0"><?php echo the_title() ?></h1>
+        <section class="page-section bg-dark bg-dark-alfa-70" data-background="<?php the_post_thumbnail_url([200,200])?>" id="home">
+            <div class="relative container">
+
+                <!-- Hero Content -->
+                <div class="home-content">
+                    <div class="home-text">
+
+                        <h1 class="hs-line-14 font-alt mb-0">
+                            <?php echo the_title();?>
+                        </h1>
                         <div class="hs-line-4 font-alt">
                             <?php echo get_field( "description" );?>
                         </div>
                     </div>
                 </div>
+                <!-- End Hero Content -->
+
             </div>
         </section>
     <?php endwhile;
