@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89edf8e5-e064-470a-9983-b1a48575b691" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/about-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/inc/Walker_menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/news-single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/news.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/fonts/et-line.eot?" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/fonts/fontawesome-webfont.eot?v=4.2.0" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/fonts/fontawesome-webfont.eot?" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/fonts/fontawesome-webfont.svg?v=4.2.0" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/fonts/fontawesome-webfont.ttf?v=4.2.0" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/fonts/fontawesome-webfont.woff?v=4.2.0" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/css/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/js/all.js" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/assets/js/all.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/contact.php" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/portfolio-albom.php" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/portfolio-albom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/portfolio-single.php" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/portfolio-single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/newtheme/news.php" afterPath="$PROJECT_DIR$/wp-content/themes/newtheme/news.php" />
     </list>
     <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,8 +82,8 @@
       <file leaf-file-name="news.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/newtheme/news.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="5" column="130" selection-start-line="5" selection-start-column="130" selection-end-line="5" selection-end-column="130" />
+            <state relative-caret-position="214">
+              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -414,12 +394,12 @@
       <workItem from="1479041464228" duration="13645000" />
       <workItem from="1479666076011" duration="5816000" />
       <workItem from="1480090760550" duration="209000" />
-      <workItem from="1480091004118" duration="32064000" />
+      <workItem from="1480091004118" duration="32764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65062000" />
+    <option name="totallyTimeSpent" value="65762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -843,8 +823,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/newtheme/news.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="5" column="130" selection-start-line="5" selection-start-column="130" selection-end-line="5" selection-end-column="130" />
+        <state relative-caret-position="214">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
           <folding />
         </state>
       </provider>

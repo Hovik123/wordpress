@@ -1,9 +1,10 @@
 <?php /* Template Name: news */ ?>
 <?php get_header(); ?>
     <!-- Head Section -->
-<?php if ( have_posts() ) : ?>
-    <?php while ( have_posts() ) : the_post(); ?>
-        <section class="page-section bg-dark bg-dark-alfa-70" id="home" data-background="<?php the_post_thumbnail_url([200,200])?>>
+<?php if (have_posts()) : ?>
+    <?php while (have_posts()) : the_post(); ?>
+        <section class="page-section bg-dark bg-dark-alfa-70" id="home"
+                 data-background="<?php the_post_thumbnail_url([200, 200]) ?>">
             <div class="relative container">
 
                 <!-- Hero Content -->
@@ -11,7 +12,7 @@
                     <div class="home-text">
 
                         <h1 class="hs-line-14 font-alt mb-0">
-                            <?php echo the_title();?>
+                            <?php echo the_title(); ?>
                         </h1>
 
                     </div>
@@ -20,19 +21,16 @@
 
             </div>
         </section>
-    <!-- End Head Section -->
+        <!-- End Head Section -->
     <?php endwhile; ?>
 <?php endif; ?>
 
     <!-- Section -->
     <section class="page-section">
         <div class="container relative">
-
             <div class="row">
-
                 <!-- Content -->
                 <div class="col-sm-10 col-sm-offset-1">
-
                     <!-- Post -->
                     <div class="blog-item">
 
@@ -42,7 +40,8 @@
                         </div>
 
                         <!-- Post Title -->
-                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Post with media gallery</a></h2>
+                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Post with media
+                                gallery</a></h2>
 
                         <!-- Author, Categories, Comments -->
                         <div class="blog-item-data">
@@ -58,13 +57,13 @@
                         <div class="blog-media">
                             <ul class="clearlist content-slider">
                                 <li>
-                                    <img src="images/portfolio/full-project-1.jpg" alt="" />
+                                    <img src="images/portfolio/full-project-1.jpg" alt=""/>
                                 </li>
                                 <li>
-                                    <img src="images/portfolio/full-project-2.jpg" alt="" />
+                                    <img src="images/portfolio/full-project-2.jpg" alt=""/>
                                 </li>
                                 <li>
-                                    <img src="images/portfolio/full-project-3.jpg" alt="" />
+                                    <img src="images/portfolio/full-project-3.jpg" alt=""/>
                                 </li>
                             </ul>
                         </div>
@@ -72,13 +71,16 @@
                         <!-- Text Intro -->
                         <div class="blog-item-body">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non laoreet dui. Morbi lacus massa, euismod ut turpis molestie, tristique sodales est. Integer sit amet mi id sapien tempor molestie in nec massa.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non laoreet dui. Morbi
+                                lacus massa, euismod ut turpis molestie, tristique sodales est. Integer sit amet mi id
+                                sapien tempor molestie in nec massa.
                             </p>
                         </div>
 
                         <!-- Read More Link -->
                         <div class="blog-item-foot">
-                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More <i class="fa fa-angle-right"></i></a>
+                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More
+                                <i class="fa fa-angle-right"></i></a>
                         </div>
 
                     </div>
@@ -93,7 +95,8 @@
                         <!-- Blockquote -->
                         <blockquote class="blog-item-q">
                             <p>
-                                <a href="blog-single-sidebar-right.html">Curabitur iaculis, ligula facilisis volutpat suscipit, sapien felis tempor, consequat vitae velit.</a>
+                                <a href="blog-single-sidebar-right.html">Curabitur iaculis, ligula facilisis volutpat
+                                    suscipit, sapien felis tempor, consequat vitae velit.</a>
                             </p>
                         </blockquote>
                         <!-- End Blockquote -->
@@ -110,7 +113,8 @@
 
                         <!-- Read More Link -->
                         <div class="blog-item-foot">
-                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More <i class="fa fa-angle-right"></i></a>
+                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More
+                                <i class="fa fa-angle-right"></i></a>
                         </div>
 
                     </div>
@@ -125,7 +129,8 @@
                         </div>
 
                         <!-- Post Title -->
-                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Video post only</a></h2>
+                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Video post
+                                only</a></h2>
 
                         <!-- Author, Categories, Comments -->
                         <div class="blog-item-data">
@@ -139,19 +144,22 @@
 
                         <!-- Media Gallery -->
                         <div class="blog-media">
-                            <iframe width="640" height="360" src="http://www.youtube.com/embed/w2JUhDd0CAA" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="640" height="360" src="http://www.youtube.com/embed/w2JUhDd0CAA"
+                                    frameborder="0" allowfullscreen></iframe>
                         </div>
 
                         <!-- Text Intro -->
                         <div class="blog-item-body">
                             <p>
-                                Morbi lacus massa, euismod ut turpis molestie, tristique sodales est. Integer sit amet mi id sapien tempor molestie in nec massa.
+                                Morbi lacus massa, euismod ut turpis molestie, tristique sodales est. Integer sit amet
+                                mi id sapien tempor molestie in nec massa.
                             </p>
                         </div>
 
                         <!-- Read More Link -->
                         <div class="blog-item-foot">
-                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More <i class="fa fa-angle-right"></i></a>
+                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More
+                                <i class="fa fa-angle-right"></i></a>
                         </div>
 
                     </div>
@@ -166,7 +174,8 @@
                         </div>
 
                         <!-- Post Title -->
-                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Post with text only</a></h2>
+                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Post with text
+                                only</a></h2>
 
                         <!-- Author, Categories, Comments -->
                         <div class="blog-item-data">
@@ -181,13 +190,16 @@
                         <!-- Text Intro -->
                         <div class="blog-item-body">
                             <p>
-                                Suspendisse accumsan interdum tellus, eu imperdiet lacus consectetur sed. Aliquam in ligula ac lacus blandit commodo vel luctus quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras eu ultrices mauris.
+                                Suspendisse accumsan interdum tellus, eu imperdiet lacus consectetur sed. Aliquam in
+                                ligula ac lacus blandit commodo vel luctus quam. Pellentesque habitant morbi tristique
+                                senectus et netus et malesuada fames ac turpis egestas. Cras eu ultrices mauris.
                             </p>
                         </div>
 
                         <!-- Read More Link -->
                         <div class="blog-item-foot">
-                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More <i class="fa fa-angle-right"></i></a>
+                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More
+                                <i class="fa fa-angle-right"></i></a>
                         </div>
 
                     </div>
@@ -201,7 +213,8 @@
                             <span class="date-num">27</span>Jan
                         </div>
                         <!-- Post Title -->
-                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Image post only</a></h2>
+                        <h2 class="blog-item-title font-alt"><a href="blog-single-sidebar-right.html">Image post
+                                only</a></h2>
 
                         <!-- Author, Categories, Comments -->
                         <div class="blog-item-data">
@@ -215,19 +228,23 @@
 
                         <!-- Image -->
                         <div class="blog-media">
-                            <a href="blog-single-sidebar-right.html"><img src="images/portfolio/full-project-4.jpg" alt="" /></a>
+                            <a href="blog-single-sidebar-right.html"><img src="images/portfolio/full-project-4.jpg"
+                                                                          alt=""/></a>
                         </div>
 
                         <!-- Text Intro -->
                         <div class="blog-item-body">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at magna ut ante eleifend eleifend. Aliquam ac libero et diam rutrum rutrum. Nullam interdum mattis ipsum at convallis.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at magna ut ante
+                                eleifend eleifend. Aliquam ac libero et diam rutrum rutrum. Nullam interdum mattis ipsum
+                                at convallis.
                             </p>
                         </div>
 
                         <!-- Read More Link -->
                         <div class="blog-item-foot">
-                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More <i class="fa fa-angle-right"></i></a>
+                            <a href="blog-single-sidebar-right.html" class="btn btn-mod btn-round  btn-small">Read More
+                                <i class="fa fa-angle-right"></i></a>
                         </div>
 
                     </div>
@@ -254,4 +271,4 @@
     </section>
     <!-- End Section -->
 
-<?php get_footer();?>
+<?php get_footer(); ?>
